@@ -1,9 +1,9 @@
 # opencv-webcam-recorder
-Simple open CV (Python) script to record frames from webcam and store them in path provided as script 
+Simple open CV (Python) script to record frames from webcam and store them in path provided as script agrument
 
 ## How to run above script?
-- Install dependancies such as <mark>openCV</mark>
-- Run scrip with <mark>python3.X opencv_capture.py --path /path/to/store/images</mark>
+- Install dependancies such as ```openCV```
+- Run scrip with ```python3.X opencv_capture.py --path /path/to/store/images```
 - In above command replace X with your appropriate python version and replace path with your folder path
 
 ## LICENSE
