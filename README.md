@@ -8,4 +8,3 @@ Simple open CV (Python) script to record frames from webcam and store them in pa
 
 ## LICENSE
 - This script is released under MIT license
-- While using this script please refer to the source
